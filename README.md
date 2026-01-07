@@ -70,7 +70,7 @@ pip install transformers torch pillow
 
 ---
 
-### Method 1: The High-Level Pipeline (easiest)
+### Method 1
 This is the recommended way if you just want to get predictions. The `pipeline` handles image resizing, normalization, and mapping the output numbers back to digit labels (e.g., "3") automatically.
 
 ```python
@@ -92,7 +92,7 @@ print(f"Predicted Digit: {results[0]['label']} (Confidence: {results[0]['score']
 
 ---
 
-### Method 2: Explicit Inference (Developer Level)
+### Method 2
 Use this method if you need more control, such as running the model on a specific device (GPU/CPU) or processing batches of images. This separates the **preprocessing** from the **inference**.
 
 ```python
@@ -124,7 +124,7 @@ print(f"Predicted Digit: {model.config.id2label[predicted_class_idx]}")
 
 ---
 
-### Method 3: Feature Extraction (Advanced)
+### Method 3
 Use this method if you don't care about the final classification but want to use the model as a **feature extractor** (e.g., for image similarity, clustering, or as input to another model). This returns the 512-dimensional vector from the final global average pooling layer.
 
 ```python

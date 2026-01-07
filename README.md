@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dawntasy/dawntasyproj/blob/main/assets/extended_logo.png" width="100%">
+  <img src="https://github.com/dawntasy/dawntasyproj/blob/main/assets/extended_logo.png" width="50%">
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/dawntasy/SVHN-V1-ResNet)

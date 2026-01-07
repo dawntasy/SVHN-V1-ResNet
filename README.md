@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/dawntasy/dawntasyproj/blob/main/assets/extended_logo.png" width="50%">
+</p>
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/dawntasy/SVHN-V1-ResNet)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Model-20beff?logo=kaggle&logoColor=white)](https://www.kaggle.com/models/learnwaterflow/svhn-v1-resnet)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-FFD21E)](https://huggingface.co/Dawntasy/SVHN-V1-ResNet)

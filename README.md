@@ -1,3 +1,8 @@
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/dawntasy/SVHN-V1-ResNet)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Model-20beff?logo=kaggle&logoColor=white)](https://www.kaggle.com/models/learnwaterflow/svhn-v1-resnet)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-FFD21E)](https://huggingface.co/Dawntasy/SVHN-V1-ResNet)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # SVHN-V1-ResNet
 
 SVHN-V1-ResNet is a 21M parameter ResNet model trained on the SVHN dataset. Empirically, this method achieves a train loss of 98.90% and a test loss of 97.81%. SVHN-V1-ResNet shows strong performance across multiple other metrics.

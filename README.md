@@ -10,7 +10,7 @@
 
 # SVHN-V1-ResNet
 
-SVHN-V1-ResNet is a 21M parameter ResNet model trained on the SVHN dataset. Empirically, this method achieves a train loss of 98.90% and a test loss of 97.81%. SVHN-V1-ResNet shows strong performance across multiple other metrics.
+SVHN-V1-ResNet is a 21M parameter ResNet model trained on the SVHN dataset. Empirically, this method achieves a train accuracy of 98.90% and a test accuracy of 97.81%. SVHN-V1-ResNet shows strong performance across multiple other metrics.
 
 ## Evaluation
 
